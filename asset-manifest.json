@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zoox/static/css/main.6d7723f7.css",
+    "main.js": "/zoox/static/js/main.535fdefb.js",
+    "index.html": "/zoox/index.html",
+    "main.6d7723f7.css.map": "/zoox/static/css/main.6d7723f7.css.map",
+    "main.535fdefb.js.map": "/zoox/static/js/main.535fdefb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d7723f7.css",
+    "static/js/main.535fdefb.js"
+  ]
+}
